@@ -76,7 +76,7 @@ export default function FooterSection() {
           Happy 22nd, Billi!
         </h2>
         <p className="font-sans text-bday-text max-w-md mx-auto leading-relaxed">
-          This website is silly and over the top and made with the most genuine love from your Billa.
+          This website is silly and over the top and made with the most genuine wishes from your Billa.
           You deserve all of this and infinitely more.
         </p>
         <p className="font-sans text-bday-muted mt-3 text-sm">
