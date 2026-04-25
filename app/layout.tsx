@@ -18,7 +18,12 @@ const nunito = Nunito({
 export const metadata: Metadata = {
   title: 'Happy Birthday Billi! 🐱',
   description: 'A special birthday surprise from Billa to Billi — turning 22!',
-  generator: 'v0.app',
+  generator: 'Billa',
+  icons: {
+    icon: "/photos/billi.gif", // Points to public/favicon.gif
+    // Optional: Keep a static ico as a backup for older browsers
+    // shortcut: "/favicon.ico", 
+  },
 }
 
 export default function RootLayout({
