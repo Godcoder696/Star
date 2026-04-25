@@ -13,7 +13,7 @@ const wishes = [
   "May 22 be the year you finally stop being so hard on yourself.",
   "May you always remember a unique billi is impossible to find.",
   "May you always find your way back home, no matter how far you wander.",
-  "May every door that closes lead you to a better window. (Very cat of you to find it.)",
+  "May every door that closes lead you to a better window.",
 ]
 
 const balloonColors = [
