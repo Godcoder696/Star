@@ -200,7 +200,7 @@ export default function HeroSection() {
         }}
         className="font-sans text-bday-muted text-lg md:text-xl text-center max-w-sm leading-relaxed"
       >
-        The world&apos;s most purrfect human gets a whole website today. Scroll down, bestie.
+        The world&apos;s most purrfect human gets a whole website today. Scroll down, cutie.
       </p>
 
       {/* Scroll indicator */}
